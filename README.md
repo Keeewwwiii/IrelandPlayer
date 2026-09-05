@@ -1,2 +1,2 @@
-# JuliaIrelandPlayer
+# IrelandPlayer
 Ireland sound/audio files
